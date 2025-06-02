@@ -19,9 +19,13 @@ Data cleaning is the process of identifying and correcting errors, inconsistenci
 Data processing refers to the manipulation and transformation of raw data into a more useful format or structure. It involves tasks such as sorting, summarizing, aggregating, filtering, and transforming data to extract meaningful insights or support decision-making.
 
 In the dataset, the following columns were created by applying the correct formulas to be able to extract more meaningful insights
+
 I. Order Year
+
 II. Order Month
+
 III. Order Day
+
 IV. Order Hour
 
 **DATA ANALYSIS AND VISUALIZATION**
